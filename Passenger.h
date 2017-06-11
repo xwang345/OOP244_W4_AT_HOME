@@ -1,4 +1,7 @@
-// TODO: add header file guard here 
+// Created by Xiaochen Wang
+// Student ID: 015297153
+
+// TODO: add header file guard here
 #ifndef SICT_PASSENGER_H
 #define SICT_PASSENGER_H
 #include <iostream>

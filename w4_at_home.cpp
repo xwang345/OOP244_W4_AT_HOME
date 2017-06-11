@@ -1,5 +1,4 @@
 #include <iostream>
-#include <time.h>
 #include "Passenger.h"
 
 using namespace std;

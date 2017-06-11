@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xiaochen/Downloads/OOP244_w4/WS04/at-home/Passenger.cpp
+iostream
+-
+cstring
+-
+stdio.h
+-
+Passenger.h
+/Users/xiaochen/Downloads/OOP244_w4/WS04/at-home/Passenger.h
+
+/Users/xiaochen/Downloads/OOP244_w4/WS04/at-home/Passenger.h
+iostream
+-
+
+/Users/xiaochen/Downloads/OOP244_w4/WS04/at-home/w4_at_home.cpp
+iostream
+-
+time.h
+-
+Passenger.h
+/Users/xiaochen/Downloads/OOP244_w4/WS04/at-home/Passenger.h
+
